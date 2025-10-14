@@ -14,12 +14,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:6AA6FF,100:9D4EDD&height=180&section=header&text=Tu%20Infinity%20%26%20Beyond&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=fff" />
-</div>
-
----
-
 ## 🚀 About Me
 
 - 🧭 Navigation Team Leader — **Eurobot 2025**, Vice Team Leader at **DIT Robotics**  
@@ -95,7 +89,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:9D4EDD,100:6AA6FF&height=140&section=footer&animation=fadeIn&fontColor=fff" />
-</div>

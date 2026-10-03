@@ -8,7 +8,7 @@
   <br>
   🤖 Focused on <strong>Robotics, Control, and Intelligent Navigation</strong>
   <br><br>
-  <a href="mailto:s111033151@m111.nthu.edu.tw"><img src="https://img.shields.io/badge/Email-s111033151%40m111.nthu.edu.tw-blue?logo=gmail"></a>
+  <a href="mailto:tu.tzu.hs@gmail.com"><img src="https://img.shields.io/badge/Email-tu.tzu.hs@gmail.com-blue?logo=gmail"></a>
   <a href="https://github.com/Rabbit025879" target="_blank"><img src="https://img.shields.io/badge/GitHub-Rabbit025879-black?logo=github"></a>
 </p>
 
